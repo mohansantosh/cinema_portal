@@ -1,0 +1,31 @@
+{
+  "connection": "default",
+  "collectionName": "movies",
+  "info": {
+    "name": "movies",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "runtime": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "small_image": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "string"
+    }
+  }
+}

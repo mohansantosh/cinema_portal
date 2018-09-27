@@ -1,0 +1,25 @@
+{
+  "connection": "default",
+  "collectionName": "cinemas",
+  "info": {
+    "name": "cinemas",
+    "description": "This collection will have all the cinema information"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}

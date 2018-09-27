@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "shows",
+  "info": {
+    "name": "shows",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "showTime": {
+      "type": "date"
+    },
+    "cinema": {
+      "model": "cinemas"
+    },
+    "movie": {
+      "model": "movies"
+    }
+  }
+}

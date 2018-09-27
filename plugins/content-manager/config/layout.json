@@ -1,0 +1,47 @@
+{
+  "cinema": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "image": {
+        "appearance": ""
+      },
+      "location": {
+        "appearance": ""
+      }
+    }
+  },
+  "movie": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "runtime": {
+        "appearance": ""
+      },
+      "image": {
+        "appearance": ""
+      },
+      "small_image": {
+        "appearance": ""
+      },
+      "rating": {
+        "appearance": ""
+      }
+    }
+  },
+  "shows": {
+    "attributes": {
+      "showTime": {
+        "appearance": ""
+      }
+    }
+  }
+}
